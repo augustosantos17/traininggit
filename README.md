@@ -2,7 +2,7 @@
     <img src="/images/inteligencia-artificial.png" alt="logo" width="800px">
 </p>
 
-# Documentação README
+# Documentação Paulo
 
 <p id="decricao" align="justify">
 Este Repositório apresenta um README padronizado.
