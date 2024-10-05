@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-    <img src="./image/logots.jpg" alt="logo" width="600px">
+    <img src="/images/inteligencia-artificial.png" alt="logo" width="600px">
 </p>
 
 # Documentação README
