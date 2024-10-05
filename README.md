@@ -22,7 +22,7 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
     <li><a href="">Tecnologias</a></li>
 </ul>
 
-## :laptop: Status do Projeto
+## :rocket: Status do Projeto
 <p id="status">
     ...Em Construção
 </p>
