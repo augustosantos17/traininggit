@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-    <img src="/images/inteligencia-artificial.png" alt="logo" width="600px">
+    <img src="/images/inteligencia-artificial.png" alt="logo" width="800px">
 </p>
 
 # Documentação README
@@ -24,7 +24,7 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 
 ## :rocket: Status do Projeto
 <p id="status">
-    ...Em Construção
+    ...Em Atualização
 </p>
 
 <p id="features"></p>
@@ -32,7 +32,7 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 ## Features
 - [X] Badges
 - [X] Status
-- [ ] Tecnologias
+- [X] Tecnologias
 
 <p id="mapa"></p>
 
