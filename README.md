@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-    <img src="/images/inteligencia-artificial.png" alt="logo" width="800px">
+    <img src="/images/inteligencia-artificial.png" alt="logo" width="850px">
 </p>
 
 # Documentação Paulo
@@ -18,7 +18,8 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
     <li><a href="#descricao">Descrição</a></li>
     <li><a href="#status">Status do Projeto</a></li>
     <li><a href="#features">Features</a></li>
-    <li><a href="#mapa">Mapa do Projeto</a></li>
+
+<li><a href="#mapa">Mapa do Projeto</a></li>
     <li><a href="">Tecnologias</a></li>
 </ul>
 
@@ -33,6 +34,12 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 - [X] Badges
 - [X] Status
 - [X] Tecnologias
+
+## Atualizações 
+
+<li><a href="#badges">Badges</a><li>
+<li><a href="#codigos">Códigos</a><li>
+<li><a href="#py">Python</a><li>
 
 <p id="mapa"></p>
 
