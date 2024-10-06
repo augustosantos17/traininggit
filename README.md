@@ -37,14 +37,12 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 
 ## Atualizações 
 <ul>
-
-<li><a href="#badges">Badges</a><li>
-<li><a href="#codigos">Códigos</a><li>
-<li><a href="#py">Python</a><li>
-<li><a href="#mapa">Mapa do Projeto</a></li>
-    <li><a href="">Tecnologias</a></li>
+    <li><a href="#badges">Badges</a><li>
+    <li><a href="#codigos">Códigos</a><li>
+    <li><a href="#py">Python</a><li>
 
 </ul>
+
 <p id="mapa"></p>
 
 ## Mapa do Projeto
