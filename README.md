@@ -2,10 +2,10 @@
     <img src="/images/inteligencia-artificial.png" alt="logo" width="850px">
 </p>
 
-# Documentação Paulo
+# Documentação README
 
 <p id="decricao" align="justify">
-Este Repositório apresenta um README padronizado.
+Meu nome é Augusto, tenho 18 anos e este é o meu repositório, contendo um README padronizado.
 Você irá ver utllização de imagens com html e markdown.
 
 Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outros.
