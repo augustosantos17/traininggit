@@ -18,6 +18,8 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
     <li><a href="#descricao">Descrição</a></li>
     <li><a href="#status">Status do Projeto</a></li>
     <li><a href="#features">Features</a></li>
+    <li><a href="#codigos">Códigos</a></li>
+    <li><a href="#python">Python</a></li>
 
 <li><a href="#mapa">Mapa do Projeto</a></li>
     <li><a href="">Tecnologias</a></li>
@@ -34,13 +36,16 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 - [X] Badges
 - [X] Status
 - [X] Tecnologias
+- [X] Projetos
 
-## Atualizações 
+## Atualizações
 <ul>
-    <li><a href="#badges">Badges</a><li>
-    <li><a href="#codigos">Códigos</a><li>
-    <li><a href="#py">Python</a><li>
+    <li><a href="#badges">Badges</a></li>
+    <li><a href="#codigos">Códigos</a></li>
+    <li><a href="#python">Python</a></li>
 
+<li><a href="#mapa">Programas</a></li>
+    <li><a href="">Projetos</a></li>
 </ul>
 
 <p id="mapa"></p>
